@@ -1,6 +1,6 @@
 # photoApp
 
-
+this app is a 5 hours technical task for an intership position
 
 #to run the backend    
 cd backend
